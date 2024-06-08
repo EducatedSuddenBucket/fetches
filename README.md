@@ -1,6 +1,17 @@
 # Fetch Library
 
-This repository is a collection of various system information fetch scripts.
+This repository is a collection of various system information fetch scripts that can be run in bash.
+
+# Get the list of scripts in this repo
+```bash
+curl -sL fetches.educatedsuddenbucket.is-a.dev/list | bash
+```
+
+# Run a script from the repo
+```bash
+curl -sL fetches.educatedsuddenbucket.is-a.dev/placeholder
+```
+Replace placeholder with the script name.
 
 ## Neofetch
 
