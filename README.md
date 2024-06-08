@@ -9,7 +9,7 @@ curl -sL fetches.educatedsuddenbucket.is-a.dev/list | bash
 
 # Run a script from the repo
 ```bash
-curl -sL fetches.educatedsuddenbucket.is-a.dev/placeholder
+curl -sL fetches.educatedsuddenbucket.is-a.dev/placeholder | bash
 ```
 Replace placeholder with the script name.
 
