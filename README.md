@@ -1,6 +1,6 @@
 # Fetch Library
 
-This repository is a collection of various system information fetch scripts that can be run in bash.
+This repository contains a variety of bash scripts for fetching system information.
 
 # Get the list of scripts in this repo
 ```bash
