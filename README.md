@@ -1,6 +1,6 @@
 # Fetch Library
 
-This repository is a collection of various fetch scripts.
+This repository is a collection of various system information fetch scripts.
 
 ## neofetch
 
